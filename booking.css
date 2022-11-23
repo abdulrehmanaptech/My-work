@@ -1,0 +1,66 @@
+body
+{
+    background-image: url(https://rare-gallery.com/uploads/posts/518938-blue-deep-diving.jpg);
+    height: 100vh;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid1
+{
+    /* border: 1px solid yellow; */
+    position: relative;
+    left: 180px;
+    width: 50%;
+    padding: 20px;
+}
+.navbar
+{
+  background-color: #77B6EA;
+  height: 100px;
+}
+ul li a:hover
+{
+  background-color: rgb(25, 213, 255);
+  color: rgb(2, 32, 46);
+  cursor: pointer;
+}
+.logo
+{
+  position: relative;
+  left: 20px;
+  color:aqua;
+}
+.TEXT
+{
+  color: aliceblue;
+  font-weight: 700px;
+  font-size: 25px ;
+}
+.container
+{
+  margin-top: 25px;
+  text-align: center;
+}
+.container2
+{
+  position: relative;
+  left: 30px;
+}
+.bg-info
+{
+  font-size: 20px;
+  width: 10ch;
+}
+.form-control 
+{
+  border: 5px solid black;
+  position: relative;
+  right: 40px;
+}
+.footer
+{
+  background-color: #77B6EA;
+}

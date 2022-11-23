@@ -1,0 +1,124 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar
+{
+  /* border: 1px solid black; */
+  background-color: #77B6EA;
+  height: 100px;
+}
+.container-fluid1
+{
+    /* border: 1px solid yellow; */
+    position: relative;
+    left: 180px;
+    width: 50%;
+    padding: 20px;
+}
+.li
+{
+  
+  padding: 3px;
+}
+ul li a:hover
+{
+  background-color: rgb(25, 213, 255);
+  color: rgb(2, 32, 46);
+  cursor: pointer;
+}
+.logo
+{
+  position: relative;
+  left: 20px;
+  color:aqua;
+}
+.TEXT
+{
+  color: aliceblue;
+  font-weight: 700px;
+  font-size: 25px ;
+}
+h1
+{
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+div
+{
+    text-align: center;
+  
+}
+body
+{
+    background-color: rgb(98, 185, 246);
+    background-image: url(https://rare-gallery.com/uploads/posts/518938-blue-deep-diving.jpg);
+    height: 100vh;
+}
+.container0
+{
+    /* border: 2px solid black; */
+    height: 450px;
+    width: 250px;
+    float: right;
+    position: relative;
+    right: 200px;
+    background-color: rgb(12, 13, 13);
+    
+}
+.container1
+{
+    /* border: 2px solid black; */
+    height: 450px;
+    width: 250px;
+    float: right;
+    position: relative;
+    right: 300px;
+    background-color: rgb(12, 13, 13);
+}
+.container2
+{
+    /* border: 2px solid black; */
+    height: 450px;
+    width: 250px;
+    float: right;
+    position: relative;
+    right: 400px;
+    background-color: rgb(12, 13, 13);
+}
+.para1
+{
+    font-size: large;
+    font-weight: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.para2
+{
+    font-size: large;
+    font-weight: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.para3
+{
+    font-size: large;
+    font-weight: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.footer
+{
+ position: absolute;
+
+ top: 1000;
+  background-color: #77B6EA;
+  width: 100%;
+}
+.text
+{
+  font-size: 30px;
+}
